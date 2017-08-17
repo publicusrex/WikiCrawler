@@ -58,4 +58,4 @@ No
 * use a NoSQL database (mongodb?) to store the data. Change the save method to save only the pages crawled since the last save. Load method needs to load only the list of visited pages.
 I have a dataset large enough now, so I don't see this a priority for now. Especially since it is possible to download the whole Wikipedia dump in one go.
 
-
+-Peter B
